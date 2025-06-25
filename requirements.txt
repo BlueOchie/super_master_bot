@@ -1,0 +1,8 @@
+streamlit
+ccxt
+numpy
+pandas
+tensorflow
+keras
+scikit-learn
+requests
